@@ -50,7 +50,7 @@ adventure.addToTextlog("A traveling bard approaches and asks you to join his adv
 ```
 
 
-![Drag the block from the toolbox in the workspace](/static/skillmap/adventure/how-to-adventure.gif)
+![Drag the block from the toolbox in the workspace](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/how-to-adventure.gif)
 
 hint~
 
@@ -88,7 +88,7 @@ Take a look at what you have so far.
 
 - :binoculars: Look at your project in the game window to see what happens!
 
-![Look for the game window in the lower right](/static/skillmap/mole/game1.png "Click the mini game window to pop open the bigger game window.")
+![Look for the game window in the lower right](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/mole/game1.png "Click the mini game window to pop open the bigger game window.")
 
 
 ```blockconfig.local
@@ -382,7 +382,7 @@ You should win the adventure if you press the (A) buttonn and lose the adventure
 
 Click "Done" to get back out to the skillmap, then look in the lower-right corner for the share button.
 
-![Share your card](/static/skillmap/adventure/share.gif )
+![Share your card](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/share.gif )
 
 hint~
 
