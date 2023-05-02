@@ -108,7 +108,7 @@ if (controller.A.isPressed()) {
 💡 _You may need to turn the sound on beside the game window to hear the music you added._
 
 
-![Don't forget to turn on the sound]( /static/skillmap/adventure/sound-on.gif "Image of the sound button to the right of the game window" )
+![Don't forget to turn on the sound]( https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/sound-on.gif "Image of the sound button to the right of the game window" )
 
 
 
@@ -135,7 +135,7 @@ and into a function block called **quest1**.
 function quest1() {}
 ```
 
-![Drag the block from the toolbox in the workspace](/static/skillmap/adventure/functions.gif)
+![Drag the block from the toolbox in the workspace](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/functions.gif)
 
 hint~
 
@@ -175,7 +175,7 @@ That way, all of the blocks beneath will follow._
 
 ~hint Show me 🕵🏽‍♀️
 
-![Drag the block from the toolbox in the workspace](/static/skillmap/adventure/functions.gif)
+![Drag the block from the toolbox in the workspace](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/functions.gif)
 
 hint~
 
@@ -365,7 +365,7 @@ and only one if you press (B).
 
 Click "Done" to get back out to the skillmap, then look in the lower-right corner for the share button.
 
-![Share your card](/static/skillmap/adventure/share.gif )
+![Share your card](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/share.gif )
 
 hint~
 
