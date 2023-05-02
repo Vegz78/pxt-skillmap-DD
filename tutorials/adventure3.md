@@ -98,7 +98,7 @@ function quest3() {
 
 Are your functions taking up too much of the workspace?  Try collapsing them!
 
-![Collapse your functions](/static/skillmap/adventure/collapse.gif)
+![Collapse your functions](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/collapse.gif)
 
 
 ~hint Other space-saving options 💡
@@ -111,7 +111,7 @@ Try clicking an empty area of the workspace to **drag it around**, or scroll up 
 
 You can also **zoom the workspace** in and out using the plus and minus buttons.
 
-![Zoom the workspace](/static/skillmap/adventure/zoom.gif)
+![Zoom the workspace](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/zoom.gif)
 
 
 hint~
@@ -382,7 +382,7 @@ You can keep adding more quests or more text until you're happy with your advent
 
 Click "Done" to get back out to the skillmap, then look in the lower-right corner for the share button.
 
-![Share your card](/static/skillmap/adventure/share.gif )
+![Share your card](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/share.gif )
 
 hint~
 
