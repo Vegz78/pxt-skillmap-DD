@@ -64,7 +64,7 @@
 * showMultiplayerShare: false
 * position: 2 0
 * actions:
-    * map: [Try Burstin' Balloons](/tutorials/balloon.md)
+    * map: [Try Burstin' Balloons](/tutorials/balloon)
     * editor: [Open in Creative Mode](/)
 * rewards:
     * certificate:
