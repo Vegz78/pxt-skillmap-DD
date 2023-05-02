@@ -1,10 +1,10 @@
 # MakeCode D&D Skill Map
 
 This is a great skill map that contains a D&D text adventure game learning path. You can view the content here:<br>
-https://arcade.makecode.com/--skillmap#github:Vegz78/pxt-skillmap-DD/skillmap
+[https://arcade.makecode.com/--skillmap#github:Vegz78/pxt-skillmap-DD/skillmap](https://arcade.makecode.com/--skillmap#github:Vegz78/pxt-skillmap-DD/skillmap)
 
 One-pager:<br>
-https://forum.makecode.com/t/coming-soon-text-based-adventure-tutorial-for-dungeons-dragons-honor-among-thieves/17403/21
+[https://forum.makecode.com/t/coming-soon-text-based-adventure-tutorial-for-dungeons-dragons-honor-among-thieves/17403/21](https://forum.makecode.com/t/coming-soon-text-based-adventure-tutorial-for-dungeons-dragons-honor-among-thieves/17403/21)
 
 Github-hosted skill maps are loaded in the same manner as tutorials, with a URL fragment
 formatted as follows:
@@ -14,7 +14,7 @@ formatted as follows:
 ## Miscellaneous
 
 Some MS tutorial extension with different asset packs:
-https://github.com/microsoft/arcade-tutorial-extensions<br>
+[https://github.com/microsoft/arcade-tutorial-extensions](https://github.com/microsoft/arcade-tutorial-extensions)<br>
 E.g.:<br>
 github:microsoft/arcade-tutorial-extensions/adventure#v0.0.12<br>
 github:microsoft/arcade-tutorial-extensions/dnd-sprite-pack#v0.0.10<br>
@@ -22,13 +22,13 @@ etc.<br>
 (Add the above as extensions...)
 
 Pixel Art RPG Character Creator by edermunizz:<br>
-https://forum.makecode.com/t/something-cool-i-found/19411
+[https://forum.makecode.com/t/something-cool-i-found/19411](https://forum.makecode.com/t/something-cool-i-found/19411)
 
 Open older versions of skillmaps like this(does not work if underlying links have been updated):<br>
-https://arcade.makecode.com/--skillmap#https://raw.githubusercontent.com/microsoft/pxt-arcade/v1.13.18/docs/skillmap/adventure.md
+[https://arcade.makecode.com/--skillmap#https://raw.githubusercontent.com/microsoft/pxt-arcade/v1.13.18/docs/skillmap/adventure.md](https://arcade.makecode.com/--skillmap#https://raw.githubusercontent.com/microsoft/pxt-arcade/v1.13.18/docs/skillmap/adventure.md)
 
 Open GitHub repository skillmap directly without releases:<br>
-https://arcade.makecode.com/--skillmap#https://raw.githubusercontent.com/Vegz78/pxt-skillmap-DD/main/skillmap.md
+[https://arcade.makecode.com/--skillmap#https://raw.githubusercontent.com/Vegz78/pxt-skillmap-DD/main/skillmap.md](https://arcade.makecode.com/--skillmap#https://raw.githubusercontent.com/Vegz78/pxt-skillmap-DD/main/skillmap.md)
 
 ## Syntax
 
