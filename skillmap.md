@@ -1,123 +1,75 @@
-# sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+# Text-Adventure
+* name: Code an Adventure
+* description: Code your own text-based adventure inspired by the movie Dungeons & Dragons: Honor Among Thieves
+* infoUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/skillmap/educator-info/adventure-info.md
+* bannerUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/dd-logo.png
+* backgroundurl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/backgrounds/adventure-comp1.png
+* primarycolor: #ffffff
+* secondarycolor: #fff53d
+* tertiarycolor: #b1dcef
+* completednodecolor: #2f484d
+* highlightcolor: #ff0000
+* allowcodecarryover: true
+* tags: creative, intermediate, conditionals
 
-## interface
-* name: Learn to use MakeCode Arcade
-* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### interface-activity1
+## adventure
+* layout: manual
 
-* name: Learn to use MakeCode Arcade
+
+### adventure1
+* allowcodecarryover: false
+
+* name: Start Your Journey
 * type: tutorial
-* description: Intro to our tutorial cards
-* tags: easy
+* description: Create an adventure story using conditionals!
+* tags: conditionals, text
+* next: adventure2
+* url: /tutorials/adventure1
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/owlbear.png
+* position: 1 2
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
-## space
-* name: Design a Space Explorer
-* description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
 
-### space-activity1
-
-* name: Ship Design
+### adventure2
+* name: Make it Spectacular
 * type: tutorial
-* description: Draw and code a spaceship!
-* tags: easy
-* next: space-activity2
+* description: Create your own music and images to enhance out your adventure!
+* tags: music, functions
+* next: adventure3
+* url: /tutorials/adventure2
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/bard.png
+* position: 1 1
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
 
-### space-activity2
-
-* name: Projectiles
+### adventure3
+* name: Lives and Gold
 * type: tutorial
-* description: Customize your ship with projectiles and effects.
-* tags: easy, projectiles, kinds
-* next: space-activity3
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity2
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
-
-### space-activity3
-
-* name: Enemies
-* description: Watch out for danger! Add enemies and lives to your game.
-* type: tutorial
-* tags: easy, enemies, kinds
-* next: space-activity4
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
-
-### space-activity4
-
-* name: Fuel Up
-* type: tutorial
-* description: Use an extension to add a fuel gauge to your ship. Make sure to refuel often!
-* tags: intermediate, extensions
-
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity4
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity4.png
+* description: Finish your game by adding more quests — including danger and rewards!
+* tags: lives, score, functions
+* next: adventure-cert
+* url: /tutorials/adventure3
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/mimic.png
+* position: 2 1
 
 
 
-## platformer
-* name: Learn to Make a Platformer
-* description: A skillmap that takes you through how to build a platformer with multiple levels.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/learn-to-make-a-platformer.pdf
 
-### platformer-activity1
-
-* name: Simple Platformer
-* type: tutorial
-* description: Learn how to make a player character that can jump and move around a tilemap.
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity1.png
-* tags: easy
-* next: platformer-activity2
-
-### platformer-activity2
-
-* name: Camera and Tiles
-* type: tutorial
-* description: Learn how to use the camera and add tile overlap events to give the player a way to win and lose.
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity2
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity2.png
-* tags: easy, tiles
-* next: platformer-activity3
-
-### platformer-activity3
-
-* name: Simple Enemies
-* type: tutorial
-* description: Learn how to add enemies to your game that follow the player.
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity3.png
-* tags: intermediate, overlaps
-* next: platformer-activity4
-
-### platformer-activity4
-
-* name: Multiple Levels
-* type: tutorial
-* description: Add a second level to your platformer using functions.
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity4
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity4.png
-* tags: intermediate, functions
-* next: platformer-activity5
-
-### platformer-activity5
-
-* name: Enemy AI
-* type: tutorial
-* description: Add physics and AI to the enemies in your game.
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity5
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity5.png
-* tags: intermediate, AI, physics
+### adventure-cert
+* name: Congrats!
+* kind: completion
+* type: certificate
+* url: https://github.com/microsoft/pxt-arcade/raw/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.pdf
+* imageUrl: https://github.com/microsoft/pxt-arcade/blob/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.png
+* showMultiplayerShare: false
+* position: 2 0
+* actions:
+    * map: [Try Burstin' Balloons](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/skillmap/balloon.md)
+    * editor: [Open in Creative Mode](/)
+* rewards:
+    * certificate:
+        * url: https://github.com/microsoft/pxt-arcade/raw/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.pdf
+        * preview: https://github.com/microsoft/pxt-arcade/blob/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.png
+    * completion-badge:
+        * image: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/badges/badge-adventure.png
+        * name: Code Adventure
