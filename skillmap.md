@@ -1,7 +1,7 @@
 # Text-Adventure
 * name: Code an Adventure
 * description: Code your own text-based adventure inspired by the movie Dungeons & Dragons: Honor Among Thieves
-* infoUrl: /tutorials/adventure-info
+* infoUrl: https://github.com/Vegz78/pxt-skillmap-DD/tutorials/adventure-info
 * bannerUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/dd-logo.png
 * backgroundurl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/backgrounds/adventure-comp1.png
 * primarycolor: #ffffff
@@ -25,7 +25,7 @@
 * description: Create an adventure story using conditionals!
 * tags: conditionals, text
 * next: adventure2
-* url: /tutorials/adventure1
+* url: https://github.com/Vegz78/pxt-skillmap-DD/tutorials/adventure1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/owlbear.png
 * position: 1 2
 
@@ -37,7 +37,7 @@
 * description: Create your own music and images to enhance out your adventure!
 * tags: music, functions
 * next: adventure3
-* url: /tutorials/adventure2
+* url: https://github.com/Vegz78/pxt-skillmap-DD/tutorials/adventure2
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/bard.png
 * position: 1 1
 
@@ -48,7 +48,7 @@
 * description: Finish your game by adding more quests — including danger and rewards!
 * tags: lives, score, functions
 * next: adventure-cert
-* url: /tutorials/adventure3
+* url: https://github.com/Vegz78/pxt-skillmap-DD/tutorials/adventure3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/mimic.png
 * position: 2 1
 
@@ -64,7 +64,7 @@
 * showMultiplayerShare: false
 * position: 2 0
 * actions:
-    * map: [Try Burstin' Balloons](/tutorials/balloon)
+    * map: [Try Burstin' Balloons](https://github.com/Vegz78/pxt-skillmap-DD/tutorials/balloon)
     * editor: [Open in Creative Mode](/)
 * rewards:
     * certificate:
