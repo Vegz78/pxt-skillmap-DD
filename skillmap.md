@@ -64,7 +64,7 @@
 * showMultiplayerShare: false
 * position: 2 0
 * actions:
-    * map: [Try Burstin' Balloons](https://github.com/Vegz78/pxt-skillmap-DD/tutorials/balloon)
+    * map: [Try Burstin' Balloons](/skillmap/balloon)
     * editor: [Open in Creative Mode](/)
 * rewards:
     * certificate:
