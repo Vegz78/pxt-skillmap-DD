@@ -30,6 +30,11 @@ Open older versions of skillmaps like this(does not work if underlying links hav
 Open GitHub repository skillmap directly without releases:<br>
 [https://arcade.makecode.com/--skillmap#https://raw.githubusercontent.com/Vegz78/pxt-skillmap-DD/main/skillmap.md](https://arcade.makecode.com/--skillmap#https://raw.githubusercontent.com/Vegz78/pxt-skillmap-DD/main/skillmap.md)
 
+## Making skillmaps
+
+[https://makecode.com/writing-docs/skillmaps](https://makecode.com/writing-docs/skillmaps)<br>
+[https://forum.makecode.com/t/how-do-you-make-a-skill-map-for-tutorials/12912](https://forum.makecode.com/t/how-do-you-make-a-skill-map-for-tutorials/12912)
+
 ## Syntax
 
 The skill map definition can be found in the `skillmap.md` file. Metadata about the skill
