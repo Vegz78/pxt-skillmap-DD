@@ -60,7 +60,7 @@
 * kind: completion
 * type: certificate
 * url: https://github.com/microsoft/pxt-arcade/raw/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.pdf
-* imageUrl: https://github.com/microsoft/pxt-arcade/blob/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.png
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.png
 * showMultiplayerShare: false
 * position: 2 0
 * actions:
@@ -69,7 +69,7 @@
 * rewards:
     * certificate:
         * url: https://github.com/microsoft/pxt-arcade/raw/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.pdf
-        * preview: https://github.com/microsoft/pxt-arcade/blob/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.png
+        * preview: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/certificates/adventure-cert.png
     * completion-badge:
         * image: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/badges/badge-adventure.png
         * name: Code Adventure
