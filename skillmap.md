@@ -64,7 +64,7 @@
 * showMultiplayerShare: false
 * position: 2 0
 * actions:
-    * map: [Try Burstin' Balloons](https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/skillmap/balloon.md)
+    * map: [Try Burstin' Balloons](/tutorials/balloon.md)
     * editor: [Open in Creative Mode](/)
 * rewards:
     * certificate:
