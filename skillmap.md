@@ -1,6 +1,7 @@
 # Text-Adventure
 * name: Code an Adventure
 * description: Code your own text-based adventure inspired by the movie Dungeons & Dragons: Honor Among Thieves
+* infoUrl: https://github.com/microsoft/pxt-arcade/blob/38985314e145ceedcdc582b3565e3e564ef651c9/docs/skillmap/educator-info/adventure-info.md
 * bannerUrl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/adventure/dd-logo.png
 * backgroundurl: https://raw.githubusercontent.com/microsoft/pxt-arcade/38985314e145ceedcdc582b3565e3e564ef651c9/docs/static/skillmap/backgrounds/adventure-comp1.png
 * primarycolor: #ffffff
